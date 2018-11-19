@@ -7,7 +7,6 @@ def countdown(int)
 end
   puts "HAPPY NEW YEAR!"
 end
-end
 
 def countdown_with_sleep
   countdown_with_sleep = 5
