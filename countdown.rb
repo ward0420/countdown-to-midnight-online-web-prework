@@ -14,7 +14,5 @@ def countdown_with_sleep
   puts ""
   countdown_with_sleep -= 1
 end
-
-puts ""
-
+sleep(1)
 end
