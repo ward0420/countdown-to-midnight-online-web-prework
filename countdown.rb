@@ -10,8 +10,7 @@ end
 
 def countdown_with_sleep
   countdown_with_sleep = 5
-  while countdown_with_sleep < 5
-  puts ""
+  while countdown_with_sleep > 0
   countdown_with_sleep -= 1
   sleep(1)
 end
