@@ -13,6 +13,6 @@ def countdown_with_sleep
   while countdown_with_sleep < 5
   puts ""
   countdown_with_sleep -= 1
+  sleep(1)
 end
-sleep(1)
 end
